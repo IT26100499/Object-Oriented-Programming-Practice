@@ -5,7 +5,7 @@ This practical contains five Java programming exercises completed as part of the
 
 The exercises focus on basic Java programming concepts, user input, arrays, strings, arithmetic operations, and problem-solving techniques.
 
-## Lab Questions
+## Questions
 
 | Question | Topic |
 |---|---|
